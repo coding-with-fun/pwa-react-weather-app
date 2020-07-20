@@ -43,7 +43,7 @@ function App() {
 							alt={weather.weather[0].description}
 							className="city-icon"
 						/>
-            <p>{weather.weather[0].description}</p>
+						<p>{weather.weather[0].description}</p>
 					</div>
 				</div>
 			)}
