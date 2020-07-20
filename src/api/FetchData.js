@@ -13,4 +13,3 @@ export const FetchData = async (query) => {
 	});
 	return data;
 };
-
