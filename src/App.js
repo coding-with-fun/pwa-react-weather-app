@@ -39,7 +39,7 @@ function App() {
 
 					<div className="info">
 						<img
-							src={`http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
+							src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`}
 							alt={weather.weather[0].description}
 							className="city-icon"
 						/>
